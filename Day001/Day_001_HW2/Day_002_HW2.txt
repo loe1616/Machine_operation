@@ -1,0 +1,4 @@
+1.美股的財務指標
+2.Nicolas Carbone , 利用Financial Modeling Prep API
+3.CSV檔
+4.利用股票的財務指標，找到近年來賺錢的公司
